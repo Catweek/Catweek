@@ -17,8 +17,4 @@ Let’s grow together!
 - Open-source projects that involve data analysis and machine learning  
 - Sharing resources and tips with others on similar journeys  
 
-### 📫 How to reach me:
-- 📧 Email: 1923smriti@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/smritiarora79976a91/]  
-
 ---
