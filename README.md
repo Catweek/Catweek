@@ -1,4 +1,4 @@
-👋 Hi, I’m @Catweek - a journey 📊 of exploring the fascinating world of Data Science Free Self-Taught Education in Data Science! 
+👋 Hi, I’m @Catweek - a journey 📊 of exploring and Self-Learnning the fascinating world of Data Science! 
 Without a formal background in the field, I’m learning everything step by step, exploring concepts, and building skills along the way.
 Let’s grow together!
 
